@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**RajeshwariKyatham/RajeshwariKyatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rajeshwari 👋
 
-Here are some ideas to get you started:
+-3rd Year CSE Student  
+-Aspiring AI/ML Engineer  
+-Currently learning Python & DSA  
+-India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+I am passionate about Artificial Intelligence and Machine Learning.  
+Currently building strong foundations in Python and Data Structures & Algorithms.  
+Focused on improving problem-solving skills and working towards becoming an AI/ML Engineer.
+
+---
+
+##  Skills I'm Learning
+- Python
+- Data Structures & Algorithms
+- Basics of Machine Learning
+- Git & GitHub
+
+---
+
+##  Current Goals
+- Practice coding daily (2 hours)
+- Solve DSA problems consistently
+- Build AI/ML mini projects
+- Improve my GitHub portfolio
+
+---
+
+## 🔗 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE/)
